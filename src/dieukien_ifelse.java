@@ -17,5 +17,6 @@ public class dieukien_ifelse {
             } else {
                 System.out.println("gia tri khong hop le!");
             }
+            System.out.println("MH xinh gai" );
         }
     }
